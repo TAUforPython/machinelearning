@@ -21,7 +21,7 @@ LSTM - Long-Short-Term-Memory
 
 KAN - Kolmogorov-Arnold-Networks [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TAUforPython/machinelearning/blob/main/NN%20KAN%20timeseries.ipynb)
 
-AutoML - brilliant example of open source framework (2025 year of review) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/TAUforPython/machinelearning/blob/main/example_LLM_AWQ_transformers.ipynb](https://colab.research.google.com/github/TAUforPython/BioMedAI/blob/main/ML%20ECG%20classification.ipynb#scrollTo=cwgqZpgNVhKf))
+AutoML - brilliant example of open source framework (2025 year of review) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TAUforPython/BioMedAI/blob/main/ML%20ECG%20classification.ipynb)
 
 Multimodal AutoML - AutoGluon example  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TAUforPython/machinelearning/blob/main/ML%20autogluon%20multimodal%20prediction.ipynb)
 
