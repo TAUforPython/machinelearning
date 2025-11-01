@@ -7,6 +7,9 @@
 
 В репозитории представлены примеры кода для различных задач машинного обучения, включая:
 
+7 cases for table EDA [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TAUforPython/machinelearning/blob/main/ML%20task%20table%20-%20PCA%20ICA%20t-SNE%20DBSCAN%20AggClustering%20SVM.ipynb)
+
+
 EDA = Exploratory Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TAUforPython/machinelearning/blob/main/EDA%20ML%20data%20science.ipynb)
 
 Классификация
