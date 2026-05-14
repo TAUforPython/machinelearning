@@ -12,6 +12,8 @@
 
 EDA = Exploratory Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TAUforPython/machinelearning/blob/main/EDA%20ML%20data%20science.ipynb)
 
+EDA for overlay problem [repo with different methods](https://github.com/D2718281828nis/ML-overlay-problem)
+
 Классификация
 Регрессия
 Кластеризация
